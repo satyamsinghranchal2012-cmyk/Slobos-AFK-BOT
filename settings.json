@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "epstienislandnigas.aternos.me:34121",
+    "ip": "epstienislandnigas.aternos.me",
     "port": 34121,
     "version": "1.21.1"
   },
