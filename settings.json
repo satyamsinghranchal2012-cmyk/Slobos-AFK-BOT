@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "epstienislandnigas.aternos.me:34121",
+    "port": 34121,
     "version": "1.21.1"
   },
   "position": {
